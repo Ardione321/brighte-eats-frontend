@@ -3,7 +3,7 @@
 
 This is the frontend application for the Brighte Eats project built with Next.js 15, using the new `src/app` router, Apollo Client for GraphQL data fetching, and styled with shadcn/ui components.
 
-## Features
+## ✨ Features
 
 - Display list of customer leads fetched via GraphQL
 - View details of individual leads
@@ -11,7 +11,7 @@ This is the frontend application for the Brighte Eats project built with Next.js
 - Responsive UI built with Tailwind CSS and shadcn/ui components
 - Integration with NestJS GraphQL backend API
 
-## Tech Stack
+## 🚀 Tech Stack
 
 - [Next.js 15](https://nextjs.org/) with the new [`src/app` directory routing](https://nextjs.org/docs/app/building-your-application/routing)
 - [Apollo Client](https://www.apollographql.com/docs/react/) for GraphQL queries and mutations
@@ -28,7 +28,7 @@ This is the frontend application for the Brighte Eats project built with Next.js
 - Yarn or npm
 - Running instance of the Brighte Eats backend GraphQL API
 
-### Installation
+## ⚙️ Setup Instructions
 
 1. Clone the repository:
 
@@ -61,9 +61,9 @@ This is the frontend application for the Brighte Eats project built with Next.js
    yarn dev
    ```
 
-5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
+5. Open your browser and navigate to [http://localhost:3001](http://localhost:3001)
 
-## Project Structure
+## 🗂 Project Structure
 
 ```
 src/
